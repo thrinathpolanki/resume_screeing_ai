@@ -1,0 +1,17 @@
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to join our AI team.
+
+Responsibilities:
+- Build and deploy machine learning and deep learning models
+- Work with natural language processing (NLP) and transformers
+- Develop REST APIs using FastAPI or Flask
+- Write clean, tested Python code
+- Collaborate with cross-functional teams using Agile/Scrum methodology
+
+Requirements:
+- Strong experience with Python, PyTorch, and scikit-learn
+- Familiarity with SQL and cloud platforms (AWS or GCP)
+- Experience with Docker and CI/CD pipelines
+- Excellent communication and problem solving skills
+- Bachelor's degree in Computer Science or related field
