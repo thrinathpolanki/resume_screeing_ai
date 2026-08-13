@@ -15,6 +15,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/thrinathpolanki/resume_screening_ai?style=flat-square&color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/thrinathpolanki/resume_screening_ai?style=flat-square&color=blue)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=thrinathpolanki&repo=resume_screening_ai&label=Repo+Views&color=6366F1&style=flat-square)
+
 </div>
 
 <br/>
